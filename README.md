@@ -8,8 +8,7 @@ We can start the corresponding application either by using docker or by using do
 #### To start the application
 
 Step 1: Create docker network
-
-    docker network create mongo-network 
+     docker network create mongo-network 
 
 Step 2: start mongodb 
 
